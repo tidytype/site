@@ -1,2 +1,2 @@
-# site
-Public website for Tidytype
+# 🪣 📖 Tidytype
+Public website for [Tidytype](https://tidytype.io)
