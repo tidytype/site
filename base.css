@@ -7,11 +7,11 @@
 body{
   font-size: 18px;
   line-height: 1.65;
-  letter-spacing: -0.1rem;
   font-family: serif;
 }
 h1,h2,h3,h4{
-  font-family: sans;
+  font-family: sans-serif;
+  letter-spacing: -0.1rem;
 }
 h1{
   font-size: 5vmin;
