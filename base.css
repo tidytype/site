@@ -43,7 +43,7 @@ body{
     linear-gradient(to bottom, var(--grid-color) 1px, transparent 1px);
   counter-reset: figure 0 reference 0 page 0 chapter 0;
 }
-p + p{
+p ~ p{
   margin-top: 1.5em;
 }
 h1,h2,h3,h4{
@@ -139,6 +139,7 @@ li{
 .content{
   margin: 0 auto;
   padding: 1.5em;
+  max-width: 30em;
 }
 
 table{
