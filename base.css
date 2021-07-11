@@ -53,6 +53,7 @@ h1,h2,h3,h4{
 h1{
   font-size: calc(var(--text-scale-factor) * 4rem);
   letter-spacing: -0.025rem;
+  line-height: 1.125;
 }
 h2::before{
   counter-increment: chapter;
@@ -60,6 +61,7 @@ h2::before{
 h2{
   font-size: calc(var(--text-scale-factor) * 3rem);
   letter-spacing: -0.0675rem;
+  line-height: 1.25;
 }
 h3{
   font-size: calc(var(--text-scale-factor) * 2rem);
